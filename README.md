@@ -20,7 +20,7 @@
   <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Lucas-FireBase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" >
   <img align="center" alt="Lucas-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" >
-  <img align="right" alt="Lucas-icon" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202110/618462_hswGbPeS.png" >
+  <img align="right" alt="Lucas-icon" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202110/1312521_6QVQ91hX.png" >
   </div>
    
    ## 
