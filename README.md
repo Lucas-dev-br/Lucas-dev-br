@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lucas Henrique!
 
 - 🔭 Full-Stack Developer
-- 🌱 React, Node.JS
+- 🌱 ReactJs, React Native, AWS, Node.JS
 - 📫 Contate-me por e-mail: lucasenge@hotmail.com
 - 😄 Pronouns: ele/dele
 
@@ -27,6 +27,5 @@
     <a href="https://www.linkedin.com/in/lucas-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
   </div>
        
-  ![Snake animation](https://github.com/Lucas-dev-br/Lucas-dev-br/blob/output/github-contribution-grid-snake.svg)
-
+ 
 
